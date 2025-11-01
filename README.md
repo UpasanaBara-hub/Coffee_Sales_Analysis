@@ -48,19 +48,17 @@ The analysis helps understand customer buying patterns and highlights actionable
 ## ⚙️ Steps Followed
 1. **Data Cleaning:**  
    - Removed duplicates, standardized date formats, and corrected data types.  
-   - Created calculated columns for *Month*, *Weekday*, and *Time of Day*.
 
 2. **Data Modeling:**  
    - Organized dataset into structured tables.  
-   - Used dynamic ranges for easy refresh and future scalability.
 
 3. **Analysis via Pivot Tables:**  
-   - Aggregated sales by coffee type, month, and time slot.  
-   - Computed total revenue and order frequency.
+   - Aggregated sales by coffee type, month, week, hour of day and day of time slot.  
+   - Computed total revenue, avg of per order, count of order and order frequency.
 
 4. **Dashboard Design:**  
    - Built interactive slicers for *Month* and *Coffee Type*.  
-   - Added KPI cards for Total Sales, Peak Hour, and Top Product.  
+   - Added KPI cards for Total revenue, Average of per order, Total orders, Top product based on revenue and Popular product.  
    - Applied a warm color theme matching coffee aesthetics.
 
 ---
