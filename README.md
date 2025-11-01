@@ -66,40 +66,31 @@ The analysis helps understand customer buying patterns and highlights actionable
 ## 💡 Key Insights
 | # | Insight | Explanation |
 |---|----------|-------------|
-| 1️⃣ | ☀️ **Peak Hours:** 8–11 AM and 3–5 PM | Morning and afternoon periods show the highest order volumes. |
+| 1️⃣ | ☀️ **Peak Hours:** 8–12 PM and 3–7 PM | Morning and afternoon periods show the highest order volumes. |
 | 2️⃣ | ☕ **Top Product:** Americano with Milk | The most frequently purchased coffee across all time slots. |
 | 3️⃣ | 💰 **Maximum Revenue:** Latte | Generates the highest total sales revenue. |
-| 4️⃣ | 📆 **Monthly Trend:** March & October | Sales peak in these months, indicating possible seasonal demand. |
+| 4️⃣ | 📆 **Monthly Trend:** February-March & September-October | Sales peak in these months, indicating possible seasonal demand. |
 | 5️⃣ | 🗓️ **Day-wise Trend:** Monday, Tuesday & Friday | Sales are slightly higher on these weekdays. |
 
 ---
+## 📂 Conclusion
+The Coffee Sales Analysis project demonstrates how Excel can be effectively used to transform raw data into actionable insights. The analysis shows proficiency in data cleaning, visualization, and trend analysis, highlighting how data-driven decision-making can help identify sales patterns, optimize operations, and support strategic business growth.
 
+
+-----
 ## 📈 Business Recommendations
 - Boost promotions during **morning and afternoon hours**.  
 - Introduce **combo offers for Latte and Americano** to increase order value.  
-- Stock up inventory for **March and October** seasonal spikes.  
+- Stock up inventory for **February-March and September-October** seasonal spikes.  
 - Encourage loyalty programs to maintain steady weekday traffic.
 
----
-
-## 📂 Folder Structure
-Coffee-Sales-Analysis-Excel/
-├─ dataset/
-│ └─ coffee_sales_data.xlsx
-├─ dashboard/
-│ ├─ coffee_dashboard.xlsx
-│ └─ dashboard_screenshot.png
-└─ README.md
-
-yaml
-Copy code
 
 ---
 
 ## 🧑‍💻 Author
 **Upasana Bara**  
 💼 Data Analyst | Excel | Power Query | Power BI | SQL  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/upasana-bara)  
+🔗 [LinkedIn Profile] (www.linkedin.com/in/upasana-bara-225611247)
 ⭐ *If you liked this project, give it a star on GitHub!*
 
 ---
